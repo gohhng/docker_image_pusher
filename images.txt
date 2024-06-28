@@ -6,3 +6,4 @@ rabbitmq:3.10.6
 minio/minio:RELEASE.2023-03-24T21-41-23Z
 nacos/nacos-server:v2.1.1
 registry:latest
+portainer/portainer：latest
