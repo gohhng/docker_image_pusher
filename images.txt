@@ -1,3 +1,4 @@
+minio/minio:latest
 hanxi/xiaomusic:latest
 phpmyadmin/phpmyadmin:latest
 apache/rocketmq:4.9.0
