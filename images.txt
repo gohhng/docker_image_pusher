@@ -1,5 +1,7 @@
+jenkins/jenkins:latest
+sonatype/nexus3:latest
+gitea/gitea:latest
 gotify/server:latest
-pythonstock/pythonstock:latest
 nacos/nacos-server:v2.3.2
 minio/minio:latest
 hanxi/xiaomusic:latest
