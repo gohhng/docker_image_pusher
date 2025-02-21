@@ -1,3 +1,4 @@
+linzeyi/hivision_idphotos
 jenkins/jenkins:latest
 sonatype/nexus3:latest
 gitea/gitea:latest
